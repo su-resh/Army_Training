@@ -132,7 +132,7 @@ class OfficeCard extends StatelessWidget {
               IconButton(
                 icon: Icon(Icons.phone),
                 onPressed: () {
-                  _callNumber(office.mobile!);
+                  _callNumber(office.mobile);
                 },
               ),
             if (office.telephone != null)
