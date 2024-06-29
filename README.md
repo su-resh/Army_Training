@@ -34,4 +34,5 @@ This is the Army Training Center App built using Flutter, a cross-platform frame
 
 ## Contact:
 
-For any inquiries or support, please contact [Your Contact Information].
+For any inquiries or support, please contact **support@sureshsubedi.info.np**.
+
